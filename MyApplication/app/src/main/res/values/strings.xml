@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">I\'m Batman</string>
+    <string-array name="Questions">
+        <item>Who is the ceo of google?</item>
+        <item>Who is the ceo of apple?</item>
+        <item>who is the ceo of dianesis?</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>sundar pichai</item>
+        <item>tim cook</item>
+        <item>dinesh</item>
+    </string-array>
+    <string-array name="Hints">
+        <item>Former ceo of google Chrome</item>
+        <item>Coolest ceo!</item>
+        <item>Former bot developer at google</item>
+    </string-array>
+</resources>
